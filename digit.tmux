@@ -5,7 +5,7 @@ interpolation=(
 	"#I"
 )
 
-digits=(⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳)
+digits=(೦ ೧ ೨ ೩ ೪ ೫ ೬ ೭ ೮ ೯ ೧೦ ೧೧ ೧೨ ೧೩ ೧೪ ೧೫ ೧೬ ೧೭ ೧೮ ೧೯ ೨೦)
 
 get_command() {
 	for i in {0..20}; do
